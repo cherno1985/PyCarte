@@ -8,6 +8,7 @@ General RoadMap -
 ////
 1. Point - done
 2. Line - done 
+2.a - perpendicular line to line object
 
 3. Triangle
 3.a. Equilateral triangle
